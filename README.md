@@ -56,4 +56,4 @@ I also gained more practical experience working with Python, analysing data and 
 
 - **Jupyter Notebook:** Contains the data exploration, preprocessing, model training and evaluation.
 - **CSV Dataset:** The original online shopping dataset used in the project.
-- **Outputs:** Generated visualisations, model comparison results and saved model files.
+- **Outputs:**  Model evaluation results and visualisations generated during the analysis, where included in the repository.
